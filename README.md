@@ -4,9 +4,9 @@
 
 ### 1. 目录说明
 
-icons 图标svg格式源文件
-assets 生成的字体图标文件和示例文档
-fontcustom.yml 编译配置文件
+icons 图标svg格式源文件  
+assets 生成的字体图标文件和示例文档  
+fontcustom.yml 编译配置文件  
 
 ### 2. 编译说明
 
