@@ -1,6 +1,6 @@
 # ecicons
 
-下载发布版本 [release 1.0](https://github.com/zhilayun/ecicons/releases)
+下载发布版本 [release](https://github.com/zhilayun/ecicons/releases)
 
 ### 1. 目录说明
 
