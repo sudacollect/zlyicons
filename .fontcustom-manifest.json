@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d98b7aa5031af16c7bb2a02f996a0482bcbde50971f224072a2ff2397075e98b",
-    "current": "d98b7aa5031af16c7bb2a02f996a0482bcbde50971f224072a2ff2397075e98b"
+    "previous": "c2f196c867413f32c9905c5760b1ce7d09c6822e08a4b60a711255aca190b614",
+    "current": "c2f196c867413f32c9905c5760b1ce7d09c6822e08a4b60a711255aca190b614"
   },
   "fonts": [
     "assets/fonts/ecicon.ttf",
@@ -34,10 +34,6 @@
     "alarmclock": {
       "codepoint": 61701,
       "source": "icons/alarmclock.svg"
-    },
-    "align-right": {
-      "codepoint": 61702,
-      "source": "icons/align-right.svg"
     },
     "alipay-square": {
       "codepoint": 61703,
@@ -99,13 +95,13 @@
       "codepoint": 61717,
       "source": "icons/backward-o.svg"
     },
-    "bag": {
-      "codepoint": 61718,
-      "source": "icons/bag.svg"
+    "badgel": {
+      "codepoint": 62078,
+      "source": "icons/badgel.svg"
     },
-    "bag-o": {
-      "codepoint": 61719,
-      "source": "icons/bag-o.svg"
+    "badgel-o": {
+      "codepoint": 62079,
+      "source": "icons/badgel-o.svg"
     },
     "bars": {
       "codepoint": 61720,
@@ -118,14 +114,6 @@
     "bell-o": {
       "codepoint": 61722,
       "source": "icons/bell-o.svg"
-    },
-    "blocks": {
-      "codepoint": 61723,
-      "source": "icons/blocks.svg"
-    },
-    "blocks-o": {
-      "codepoint": 61724,
-      "source": "icons/blocks-o.svg"
     },
     "book": {
       "codepoint": 61725,
@@ -179,10 +167,6 @@
       "codepoint": 61737,
       "source": "icons/buoy.svg"
     },
-    "calendar": {
-      "codepoint": 61738,
-      "source": "icons/calendar.svg"
-    },
     "calendar-line": {
       "codepoint": 61739,
       "source": "icons/calendar-line.svg"
@@ -190,10 +174,6 @@
     "calendar-line-o": {
       "codepoint": 61740,
       "source": "icons/calendar-line-o.svg"
-    },
-    "calendar-o": {
-      "codepoint": 61741,
-      "source": "icons/calendar-o.svg"
     },
     "calender": {
       "codepoint": 61742,
@@ -251,21 +231,9 @@
       "codepoint": 61755,
       "source": "icons/chart.svg"
     },
-    "chart-bar": {
-      "codepoint": 61756,
-      "source": "icons/chart-bar.svg"
-    },
-    "chart-line": {
-      "codepoint": 61757,
-      "source": "icons/chart-line.svg"
-    },
     "chart-o": {
       "codepoint": 61758,
       "source": "icons/chart-o.svg"
-    },
-    "chart-pie": {
-      "codepoint": 61759,
-      "source": "icons/chart-pie.svg"
     },
     "check-circle": {
       "codepoint": 61760,
@@ -275,18 +243,6 @@
       "codepoint": 61761,
       "source": "icons/check-circle-o.svg"
     },
-    "checked": {
-      "codepoint": 61762,
-      "source": "icons/checked.svg"
-    },
-    "circle-circle": {
-      "codepoint": 61763,
-      "source": "icons/circle-circle.svg"
-    },
-    "clock-o": {
-      "codepoint": 61764,
-      "source": "icons/clock-o.svg"
-    },
     "cloud": {
       "codepoint": 61765,
       "source": "icons/cloud.svg"
@@ -294,14 +250,6 @@
     "cloud-o": {
       "codepoint": 61766,
       "source": "icons/cloud-o.svg"
-    },
-    "coat": {
-      "codepoint": 61767,
-      "source": "icons/coat.svg"
-    },
-    "code": {
-      "codepoint": 61768,
-      "source": "icons/code.svg"
     },
     "coffee-cup": {
       "codepoint": 61769,
@@ -311,10 +259,6 @@
       "codepoint": 61770,
       "source": "icons/coffee-cup-o.svg"
     },
-    "comment": {
-      "codepoint": 61771,
-      "source": "icons/comment.svg"
-    },
     "compass": {
       "codepoint": 61772,
       "source": "icons/compass.svg"
@@ -322,10 +266,6 @@
     "compass-o": {
       "codepoint": 61773,
       "source": "icons/compass-o.svg"
-    },
-    "compress": {
-      "codepoint": 61774,
-      "source": "icons/compress.svg"
     },
     "contrast": {
       "codepoint": 61775,
@@ -339,14 +279,6 @@
       "codepoint": 61777,
       "source": "icons/copy-o.svg"
     },
-    "countdown": {
-      "codepoint": 61778,
-      "source": "icons/countdown.svg"
-    },
-    "crown": {
-      "codepoint": 61779,
-      "source": "icons/crown.svg"
-    },
     "cry": {
       "codepoint": 61780,
       "source": "icons/cry.svg"
@@ -358,14 +290,6 @@
     "cup-o": {
       "codepoint": 61782,
       "source": "icons/cup-o.svg"
-    },
-    "database": {
-      "codepoint": 61783,
-      "source": "icons/database.svg"
-    },
-    "delete": {
-      "codepoint": 61784,
-      "source": "icons/delete.svg"
     },
     "details": {
       "codepoint": 61785,
@@ -403,6 +327,14 @@
       "codepoint": 61793,
       "source": "icons/disk-o.svg"
     },
+    "display": {
+      "codepoint": 62080,
+      "source": "icons/display.svg"
+    },
+    "display-o": {
+      "codepoint": 62081,
+      "source": "icons/display-o.svg"
+    },
     "doctoral-cap": {
       "codepoint": 61794,
       "source": "icons/doctoral-cap.svg"
@@ -427,10 +359,6 @@
       "codepoint": 61799,
       "source": "icons/drink.svg"
     },
-    "electro-mbile": {
-      "codepoint": 61800,
-      "source": "icons/electro-mbile.svg"
-    },
     "electrombile": {
       "codepoint": 61801,
       "source": "icons/electrombile.svg"
@@ -447,10 +375,6 @@
       "codepoint": 61804,
       "source": "icons/enlarge.svg"
     },
-    "exchange": {
-      "codepoint": 61805,
-      "source": "icons/exchange.svg"
-    },
     "exchange-guard": {
       "codepoint": 61806,
       "source": "icons/exchange-guard.svg"
@@ -458,10 +382,6 @@
     "exchange-guard-o": {
       "codepoint": 61807,
       "source": "icons/exchange-guard-o.svg"
-    },
-    "expand": {
-      "codepoint": 61808,
-      "source": "icons/expand.svg"
     },
     "eye-close": {
       "codepoint": 61809,
@@ -491,10 +411,6 @@
       "codepoint": 61815,
       "source": "icons/flag-o.svg"
     },
-    "flower": {
-      "codepoint": 61816,
-      "source": "icons/flower.svg"
-    },
     "folder": {
       "codepoint": 61817,
       "source": "icons/folder.svg"
@@ -507,17 +423,9 @@
       "codepoint": 61819,
       "source": "icons/footprint.svg"
     },
-    "footprints": {
-      "codepoint": 61820,
-      "source": "icons/footprints.svg"
-    },
     "form": {
       "codepoint": 61821,
       "source": "icons/form.svg"
-    },
-    "form-o": {
-      "codepoint": 61822,
-      "source": "icons/form-o.svg"
     },
     "forward": {
       "codepoint": 61823,
@@ -538,18 +446,6 @@
     "gallery-o": {
       "codepoint": 61827,
       "source": "icons/gallery-o.svg"
-    },
-    "game": {
-      "codepoint": 61828,
-      "source": "icons/game.svg"
-    },
-    "gear": {
-      "codepoint": 61829,
-      "source": "icons/gear.svg"
-    },
-    "gear-o": {
-      "codepoint": 61830,
-      "source": "icons/gear-o.svg"
     },
     "gear-s": {
       "codepoint": 61831,
@@ -839,10 +735,6 @@
       "codepoint": 61902,
       "source": "icons/money-guard-o.svg"
     },
-    "moon": {
-      "codepoint": 61903,
-      "source": "icons/moon.svg"
-    },
     "mouse": {
       "codepoint": 61904,
       "source": "icons/mouse.svg"
@@ -863,9 +755,9 @@
       "codepoint": 61908,
       "source": "icons/music-o.svg"
     },
-    "news": {
-      "codepoint": 61909,
-      "source": "icons/news.svg"
+    "new": {
+      "codepoint": 62082,
+      "source": "icons/new.svg"
     },
     "news-o": {
       "codepoint": 61910,
@@ -938,6 +830,14 @@
     "phone": {
       "codepoint": 61927,
       "source": "icons/phone.svg"
+    },
+    "phone-call": {
+      "codepoint": 62083,
+      "source": "icons/phone-call.svg"
+    },
+    "phone-call-o": {
+      "codepoint": 62084,
+      "source": "icons/phone-call-o.svg"
     },
     "phone-o": {
       "codepoint": 61928,
@@ -1047,14 +947,6 @@
       "codepoint": 61954,
       "source": "icons/recharge.svg"
     },
-    "recharge-circle": {
-      "codepoint": 61955,
-      "source": "icons/recharge-circle.svg"
-    },
-    "recharge-circle-o": {
-      "codepoint": 61956,
-      "source": "icons/recharge-circle-o.svg"
-    },
     "recharge-o": {
       "codepoint": 61957,
       "source": "icons/recharge-o.svg"
@@ -1083,13 +975,13 @@
       "codepoint": 61963,
       "source": "icons/scan.svg"
     },
+    "science": {
+      "codepoint": 62085,
+      "source": "icons/science.svg"
+    },
     "screen": {
       "codepoint": 61964,
       "source": "icons/screen.svg"
-    },
-    "screen-o": {
-      "codepoint": 61965,
-      "source": "icons/screen-o.svg"
     },
     "search": {
       "codepoint": 61966,
@@ -1114,14 +1006,6 @@
     "service": {
       "codepoint": 61971,
       "source": "icons/service.svg"
-    },
-    "service-1": {
-      "codepoint": 61972,
-      "source": "icons/service-1.svg"
-    },
-    "service-ring": {
-      "codepoint": 61973,
-      "source": "icons/service-ring.svg"
     },
     "setting": {
       "codepoint": 61974,
@@ -1315,21 +1199,9 @@
       "codepoint": 62021,
       "source": "icons/time.svg"
     },
-    "time-active": {
-      "codepoint": 62022,
-      "source": "icons/time-active.svg"
-    },
     "time-o": {
       "codepoint": 62023,
       "source": "icons/time-o.svg"
-    },
-    "times-circle-o": {
-      "codepoint": 62024,
-      "source": "icons/times-circle-o.svg"
-    },
-    "translation": {
-      "codepoint": 62025,
-      "source": "icons/translation.svg"
     },
     "trash": {
       "codepoint": 62026,
@@ -1338,10 +1210,6 @@
     "trash-o": {
       "codepoint": 62027,
       "source": "icons/trash-o.svg"
-    },
-    "treasure": {
-      "codepoint": 62028,
-      "source": "icons/treasure.svg"
     },
     "trophy": {
       "codepoint": 62029,
@@ -1379,21 +1247,9 @@
       "codepoint": 62037,
       "source": "icons/upload-cloud.svg"
     },
-    "uploading": {
-      "codepoint": 62038,
-      "source": "icons/uploading.svg"
-    },
     "user": {
       "codepoint": 62039,
       "source": "icons/user.svg"
-    },
-    "user-2": {
-      "codepoint": 62040,
-      "source": "icons/user-2.svg"
-    },
-    "user-active": {
-      "codepoint": 62041,
-      "source": "icons/user-active.svg"
     },
     "user-add": {
       "codepoint": 62042,
@@ -1415,10 +1271,6 @@
       "codepoint": 62046,
       "source": "icons/user-o.svg"
     },
-    "vehicle": {
-      "codepoint": 62047,
-      "source": "icons/vehicle.svg"
-    },
     "video": {
       "codepoint": 62048,
       "source": "icons/video.svg"
@@ -1434,10 +1286,6 @@
     "video-o": {
       "codepoint": 62051,
       "source": "icons/video-o.svg"
-    },
-    "voice": {
-      "codepoint": 62052,
-      "source": "icons/voice.svg"
     },
     "voice-tube": {
       "codepoint": 62053,
@@ -1482,14 +1330,6 @@
     "water-drop-o": {
       "codepoint": 62063,
       "source": "icons/water-drop-o.svg"
-    },
-    "weather": {
-      "codepoint": 62064,
-      "source": "icons/weather.svg"
-    },
-    "wechat": {
-      "codepoint": 62065,
-      "source": "icons/wechat.svg"
     },
     "wechat-pay": {
       "codepoint": 62066,
