@@ -30,7 +30,6 @@
 .ec-adjust:before,
 .ec-aim:before,
 .ec-alarmclock:before,
-.ec-align-right:before,
 .ec-alipay-square:before,
 .ec-angle-double-down:before,
 .ec-angle-double-up:before,
@@ -46,13 +45,11 @@
 .ec-authentication-o:before,
 .ec-backward:before,
 .ec-backward-o:before,
-.ec-bag:before,
-.ec-bag-o:before,
+.ec-badgel:before,
+.ec-badgel-o:before,
 .ec-bars:before,
 .ec-bell:before,
 .ec-bell-o:before,
-.ec-blocks:before,
-.ec-blocks-o:before,
 .ec-book:before,
 .ec-book-o:before,
 .ec-books:before,
@@ -66,10 +63,8 @@
 .ec-bulb:before,
 .ec-bulb-o:before,
 .ec-buoy:before,
-.ec-calendar:before,
 .ec-calendar-line:before,
 .ec-calendar-line-o:before,
-.ec-calendar-o:before,
 .ec-calender:before,
 .ec-calender-o:before,
 .ec-camera:before,
@@ -84,35 +79,21 @@
 .ec-cart:before,
 .ec-cart-o:before,
 .ec-chart:before,
-.ec-chart-bar:before,
-.ec-chart-line:before,
 .ec-chart-o:before,
-.ec-chart-pie:before,
 .ec-check-circle:before,
 .ec-check-circle-o:before,
-.ec-checked:before,
-.ec-circle-circle:before,
-.ec-clock-o:before,
 .ec-cloud:before,
 .ec-cloud-o:before,
-.ec-coat:before,
-.ec-code:before,
 .ec-coffee-cup:before,
 .ec-coffee-cup-o:before,
-.ec-comment:before,
 .ec-compass:before,
 .ec-compass-o:before,
-.ec-compress:before,
 .ec-contrast:before,
 .ec-copy:before,
 .ec-copy-o:before,
-.ec-countdown:before,
-.ec-crown:before,
 .ec-cry:before,
 .ec-cup:before,
 .ec-cup-o:before,
-.ec-database:before,
-.ec-delete:before,
 .ec-details:before,
 .ec-details-circle:before,
 .ec-details-circle-o:before,
@@ -122,21 +103,20 @@
 .ec-diamond:before,
 .ec-disk:before,
 .ec-disk-o:before,
+.ec-display:before,
+.ec-display-o:before,
 .ec-doctoral-cap:before,
 .ec-doctoral-cap-o:before,
 .ec-donate:before,
 .ec-download:before,
 .ec-download-cloud:before,
 .ec-drink:before,
-.ec-electro-mbile:before,
 .ec-electrombile:before,
 .ec-email:before,
 .ec-email-o:before,
 .ec-enlarge:before,
-.ec-exchange:before,
 .ec-exchange-guard:before,
 .ec-exchange-guard-o:before,
-.ec-expand:before,
 .ec-eye-close:before,
 .ec-eye-o:before,
 .ec-female:before,
@@ -144,21 +124,15 @@
 .ec-fire-o:before,
 .ec-flag:before,
 .ec-flag-o:before,
-.ec-flower:before,
 .ec-folder:before,
 .ec-folder-o:before,
 .ec-footprint:before,
-.ec-footprints:before,
 .ec-form:before,
-.ec-form-o:before,
 .ec-forward:before,
 .ec-forward-o:before,
 .ec-full-screen:before,
 .ec-gallery:before,
 .ec-gallery-o:before,
-.ec-game:before,
-.ec-gear:before,
-.ec-gear-o:before,
 .ec-gear-s:before,
 .ec-gear-s-o:before,
 .ec-gift:before,
@@ -231,13 +205,12 @@
 .ec-money-circle-o:before,
 .ec-money-guard:before,
 .ec-money-guard-o:before,
-.ec-moon:before,
 .ec-mouse:before,
 .ec-movie:before,
 .ec-movie-o:before,
 .ec-music:before,
 .ec-music-o:before,
-.ec-news:before,
+.ec-new:before,
 .ec-news-o:before,
 .ec-organization:before,
 .ec-organization-o:before,
@@ -256,6 +229,8 @@
 .ec-pencil:before,
 .ec-pencil-o:before,
 .ec-phone:before,
+.ec-phone-call:before,
+.ec-phone-call-o:before,
 .ec-phone-o:before,
 .ec-pile:before,
 .ec-pill:before,
@@ -283,8 +258,6 @@
 .ec-rank:before,
 .ec-rank-o:before,
 .ec-recharge:before,
-.ec-recharge-circle:before,
-.ec-recharge-circle-o:before,
 .ec-recharge-o:before,
 .ec-restore:before,
 .ec-resycle:before,
@@ -292,16 +265,14 @@
 .ec-ring-o:before,
 .ec-rss:before,
 .ec-scan:before,
+.ec-science:before,
 .ec-screen:before,
-.ec-screen-o:before,
 .ec-search:before,
 .ec-search-o:before,
 .ec-seckill:before,
 .ec-send:before,
 .ec-send-o:before,
 .ec-service:before,
-.ec-service-1:before,
-.ec-service-ring:before,
 .ec-setting:before,
 .ec-setting-o:before,
 .ec-share:before,
@@ -350,13 +321,9 @@
 .ec-tie:before,
 .ec-tie-o:before,
 .ec-time:before,
-.ec-time-active:before,
 .ec-time-o:before,
-.ec-times-circle-o:before,
-.ec-translation:before,
 .ec-trash:before,
 .ec-trash-o:before,
-.ec-treasure:before,
 .ec-trophy:before,
 .ec-trophy-o:before,
 .ec-trunk:before,
@@ -366,21 +333,16 @@
 .ec-undo:before,
 .ec-upload:before,
 .ec-upload-cloud:before,
-.ec-uploading:before,
 .ec-user:before,
-.ec-user-2:before,
-.ec-user-active:before,
 .ec-user-add:before,
 .ec-user-check:before,
 .ec-user-circle:before,
 .ec-user-circle-o:before,
 .ec-user-o:before,
-.ec-vehicle:before,
 .ec-video:before,
 .ec-video-camera:before,
 .ec-video-camera-o:before,
 .ec-video-o:before,
-.ec-voice:before,
 .ec-voice-tube:before,
 .ec-volume-off:before,
 .ec-volume-off-o:before,
@@ -392,8 +354,6 @@
 .ec-warning-o:before,
 .ec-water-drop:before,
 .ec-water-drop-o:before,
-.ec-weather:before,
-.ec-wechat:before,
 .ec-wechat-pay:before,
 .ec-weibo:before,
 .ec-weixin:before,
@@ -426,7 +386,6 @@
 .ec-adjust:before { content: "\f103"; }
 .ec-aim:before { content: "\f104"; }
 .ec-alarmclock:before { content: "\f105"; }
-.ec-align-right:before { content: "\f106"; }
 .ec-alipay-square:before { content: "\f107"; }
 .ec-angle-double-down:before { content: "\f108"; }
 .ec-angle-double-up:before { content: "\f109"; }
@@ -442,13 +401,11 @@
 .ec-authentication-o:before { content: "\f113"; }
 .ec-backward:before { content: "\f114"; }
 .ec-backward-o:before { content: "\f115"; }
-.ec-bag:before { content: "\f116"; }
-.ec-bag-o:before { content: "\f117"; }
+.ec-badgel:before { content: "\f27e"; }
+.ec-badgel-o:before { content: "\f27f"; }
 .ec-bars:before { content: "\f118"; }
 .ec-bell:before { content: "\f119"; }
 .ec-bell-o:before { content: "\f11a"; }
-.ec-blocks:before { content: "\f11b"; }
-.ec-blocks-o:before { content: "\f11c"; }
 .ec-book:before { content: "\f11d"; }
 .ec-book-o:before { content: "\f11e"; }
 .ec-books:before { content: "\f11f"; }
@@ -462,10 +419,8 @@
 .ec-bulb:before { content: "\f127"; }
 .ec-bulb-o:before { content: "\f128"; }
 .ec-buoy:before { content: "\f129"; }
-.ec-calendar:before { content: "\f12a"; }
 .ec-calendar-line:before { content: "\f12b"; }
 .ec-calendar-line-o:before { content: "\f12c"; }
-.ec-calendar-o:before { content: "\f12d"; }
 .ec-calender:before { content: "\f12e"; }
 .ec-calender-o:before { content: "\f12f"; }
 .ec-camera:before { content: "\f130"; }
@@ -480,35 +435,21 @@
 .ec-cart:before { content: "\f139"; }
 .ec-cart-o:before { content: "\f13a"; }
 .ec-chart:before { content: "\f13b"; }
-.ec-chart-bar:before { content: "\f13c"; }
-.ec-chart-line:before { content: "\f13d"; }
 .ec-chart-o:before { content: "\f13e"; }
-.ec-chart-pie:before { content: "\f13f"; }
 .ec-check-circle:before { content: "\f140"; }
 .ec-check-circle-o:before { content: "\f141"; }
-.ec-checked:before { content: "\f142"; }
-.ec-circle-circle:before { content: "\f143"; }
-.ec-clock-o:before { content: "\f144"; }
 .ec-cloud:before { content: "\f145"; }
 .ec-cloud-o:before { content: "\f146"; }
-.ec-coat:before { content: "\f147"; }
-.ec-code:before { content: "\f148"; }
 .ec-coffee-cup:before { content: "\f149"; }
 .ec-coffee-cup-o:before { content: "\f14a"; }
-.ec-comment:before { content: "\f14b"; }
 .ec-compass:before { content: "\f14c"; }
 .ec-compass-o:before { content: "\f14d"; }
-.ec-compress:before { content: "\f14e"; }
 .ec-contrast:before { content: "\f14f"; }
 .ec-copy:before { content: "\f150"; }
 .ec-copy-o:before { content: "\f151"; }
-.ec-countdown:before { content: "\f152"; }
-.ec-crown:before { content: "\f153"; }
 .ec-cry:before { content: "\f154"; }
 .ec-cup:before { content: "\f155"; }
 .ec-cup-o:before { content: "\f156"; }
-.ec-database:before { content: "\f157"; }
-.ec-delete:before { content: "\f158"; }
 .ec-details:before { content: "\f159"; }
 .ec-details-circle:before { content: "\f15a"; }
 .ec-details-circle-o:before { content: "\f15b"; }
@@ -518,21 +459,20 @@
 .ec-diamond:before { content: "\f15f"; }
 .ec-disk:before { content: "\f160"; }
 .ec-disk-o:before { content: "\f161"; }
+.ec-display:before { content: "\f280"; }
+.ec-display-o:before { content: "\f281"; }
 .ec-doctoral-cap:before { content: "\f162"; }
 .ec-doctoral-cap-o:before { content: "\f163"; }
 .ec-donate:before { content: "\f164"; }
 .ec-download:before { content: "\f165"; }
 .ec-download-cloud:before { content: "\f166"; }
 .ec-drink:before { content: "\f167"; }
-.ec-electro-mbile:before { content: "\f168"; }
 .ec-electrombile:before { content: "\f169"; }
 .ec-email:before { content: "\f16a"; }
 .ec-email-o:before { content: "\f16b"; }
 .ec-enlarge:before { content: "\f16c"; }
-.ec-exchange:before { content: "\f16d"; }
 .ec-exchange-guard:before { content: "\f16e"; }
 .ec-exchange-guard-o:before { content: "\f16f"; }
-.ec-expand:before { content: "\f170"; }
 .ec-eye-close:before { content: "\f171"; }
 .ec-eye-o:before { content: "\f172"; }
 .ec-female:before { content: "\f173"; }
@@ -540,21 +480,15 @@
 .ec-fire-o:before { content: "\f175"; }
 .ec-flag:before { content: "\f176"; }
 .ec-flag-o:before { content: "\f177"; }
-.ec-flower:before { content: "\f178"; }
 .ec-folder:before { content: "\f179"; }
 .ec-folder-o:before { content: "\f17a"; }
 .ec-footprint:before { content: "\f17b"; }
-.ec-footprints:before { content: "\f17c"; }
 .ec-form:before { content: "\f17d"; }
-.ec-form-o:before { content: "\f17e"; }
 .ec-forward:before { content: "\f17f"; }
 .ec-forward-o:before { content: "\f180"; }
 .ec-full-screen:before { content: "\f181"; }
 .ec-gallery:before { content: "\f182"; }
 .ec-gallery-o:before { content: "\f183"; }
-.ec-game:before { content: "\f184"; }
-.ec-gear:before { content: "\f185"; }
-.ec-gear-o:before { content: "\f186"; }
 .ec-gear-s:before { content: "\f187"; }
 .ec-gear-s-o:before { content: "\f188"; }
 .ec-gift:before { content: "\f189"; }
@@ -627,13 +561,12 @@
 .ec-money-circle-o:before { content: "\f1cc"; }
 .ec-money-guard:before { content: "\f1cd"; }
 .ec-money-guard-o:before { content: "\f1ce"; }
-.ec-moon:before { content: "\f1cf"; }
 .ec-mouse:before { content: "\f1d0"; }
 .ec-movie:before { content: "\f1d1"; }
 .ec-movie-o:before { content: "\f1d2"; }
 .ec-music:before { content: "\f1d3"; }
 .ec-music-o:before { content: "\f1d4"; }
-.ec-news:before { content: "\f1d5"; }
+.ec-new:before { content: "\f282"; }
 .ec-news-o:before { content: "\f1d6"; }
 .ec-organization:before { content: "\f1d7"; }
 .ec-organization-o:before { content: "\f1d8"; }
@@ -652,6 +585,8 @@
 .ec-pencil:before { content: "\f1e5"; }
 .ec-pencil-o:before { content: "\f1e6"; }
 .ec-phone:before { content: "\f1e7"; }
+.ec-phone-call:before { content: "\f283"; }
+.ec-phone-call-o:before { content: "\f284"; }
 .ec-phone-o:before { content: "\f1e8"; }
 .ec-pile:before { content: "\f1e9"; }
 .ec-pill:before { content: "\f1ea"; }
@@ -679,8 +614,6 @@
 .ec-rank:before { content: "\f200"; }
 .ec-rank-o:before { content: "\f201"; }
 .ec-recharge:before { content: "\f202"; }
-.ec-recharge-circle:before { content: "\f203"; }
-.ec-recharge-circle-o:before { content: "\f204"; }
 .ec-recharge-o:before { content: "\f205"; }
 .ec-restore:before { content: "\f206"; }
 .ec-resycle:before { content: "\f207"; }
@@ -688,16 +621,14 @@
 .ec-ring-o:before { content: "\f209"; }
 .ec-rss:before { content: "\f20a"; }
 .ec-scan:before { content: "\f20b"; }
+.ec-science:before { content: "\f285"; }
 .ec-screen:before { content: "\f20c"; }
-.ec-screen-o:before { content: "\f20d"; }
 .ec-search:before { content: "\f20e"; }
 .ec-search-o:before { content: "\f20f"; }
 .ec-seckill:before { content: "\f210"; }
 .ec-send:before { content: "\f211"; }
 .ec-send-o:before { content: "\f212"; }
 .ec-service:before { content: "\f213"; }
-.ec-service-1:before { content: "\f214"; }
-.ec-service-ring:before { content: "\f215"; }
 .ec-setting:before { content: "\f216"; }
 .ec-setting-o:before { content: "\f217"; }
 .ec-share:before { content: "\f218"; }
@@ -746,13 +677,9 @@
 .ec-tie:before { content: "\f243"; }
 .ec-tie-o:before { content: "\f244"; }
 .ec-time:before { content: "\f245"; }
-.ec-time-active:before { content: "\f246"; }
 .ec-time-o:before { content: "\f247"; }
-.ec-times-circle-o:before { content: "\f248"; }
-.ec-translation:before { content: "\f249"; }
 .ec-trash:before { content: "\f24a"; }
 .ec-trash-o:before { content: "\f24b"; }
-.ec-treasure:before { content: "\f24c"; }
 .ec-trophy:before { content: "\f24d"; }
 .ec-trophy-o:before { content: "\f24e"; }
 .ec-trunk:before { content: "\f24f"; }
@@ -762,21 +689,16 @@
 .ec-undo:before { content: "\f253"; }
 .ec-upload:before { content: "\f254"; }
 .ec-upload-cloud:before { content: "\f255"; }
-.ec-uploading:before { content: "\f256"; }
 .ec-user:before { content: "\f257"; }
-.ec-user-2:before { content: "\f258"; }
-.ec-user-active:before { content: "\f259"; }
 .ec-user-add:before { content: "\f25a"; }
 .ec-user-check:before { content: "\f25b"; }
 .ec-user-circle:before { content: "\f25c"; }
 .ec-user-circle-o:before { content: "\f25d"; }
 .ec-user-o:before { content: "\f25e"; }
-.ec-vehicle:before { content: "\f25f"; }
 .ec-video:before { content: "\f260"; }
 .ec-video-camera:before { content: "\f261"; }
 .ec-video-camera-o:before { content: "\f262"; }
 .ec-video-o:before { content: "\f263"; }
-.ec-voice:before { content: "\f264"; }
 .ec-voice-tube:before { content: "\f265"; }
 .ec-volume-off:before { content: "\f266"; }
 .ec-volume-off-o:before { content: "\f267"; }
@@ -788,8 +710,6 @@
 .ec-warning-o:before { content: "\f26d"; }
 .ec-water-drop:before { content: "\f26e"; }
 .ec-water-drop-o:before { content: "\f26f"; }
-.ec-weather:before { content: "\f270"; }
-.ec-wechat:before { content: "\f271"; }
 .ec-wechat-pay:before { content: "\f272"; }
 .ec-weibo:before { content: "\f273"; }
 .ec-weixin:before { content: "\f274"; }
