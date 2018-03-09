@@ -382,7 +382,7 @@
 
 .ec-accessory:before { content: "\f100"; }
 .ec-address-book:before { content: "\f101"; }
-.ec-address-book-o:before { content: "\f102"; }
+.ec-address-book-o:before { content: "\f286"; }
 .ec-adjust:before { content: "\f103"; }
 .ec-aim:before { content: "\f104"; }
 .ec-alarmclock:before { content: "\f105"; }
