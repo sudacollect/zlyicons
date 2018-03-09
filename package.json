@@ -1,0 +1,22 @@
+{
+  "name": "zhilayun_ecicons",
+  "version": "1.0.0",
+  "description": "free iconfont from zhilayun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhilayun/ecicons.git"
+  },
+  "keywords": [
+    "iconfont"
+  ],
+  "author": "zhilayun",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/zhilayun/ecicons/issues"
+  },
+  "homepage": "https://github.com/zhilayun/ecicons#readme"
+}
