@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "c2f196c867413f32c9905c5760b1ce7d09c6822e08a4b60a711255aca190b614",
-    "current": "c2f196c867413f32c9905c5760b1ce7d09c6822e08a4b60a711255aca190b614"
+    "previous": "2106388e7597ca25a16a21f4f40c216c257d5621bffeec73f3d38acef24dd62a",
+    "current": "2106388e7597ca25a16a21f4f40c216c257d5621bffeec73f3d38acef24dd62a"
   },
   "fonts": [
-    "assets/fonts/ecicon.ttf",
-    "assets/fonts/ecicon.svg",
-    "assets/fonts/ecicon.woff",
-    "assets/fonts/ecicon.eot",
-    "assets/fonts/ecicon.woff2"
+    "assets/fonts/zlyicon.ttf",
+    "assets/fonts/zlyicon.svg",
+    "assets/fonts/zlyicon.woff",
+    "assets/fonts/zlyicon.eot",
+    "assets/fonts/zlyicon.woff2"
   ],
   "glyphs": {
     "accessory": {
@@ -58,6 +58,10 @@
     "angle-up-end": {
       "codepoint": 61708,
       "source": "icons/angle-up-end.svg"
+    },
+    "app": {
+      "codepoint": 62087,
+      "source": "icons/app.svg"
     },
     "archive": {
       "codepoint": 61709,
@@ -1384,15 +1388,15 @@
     "autowidth": false,
     "base64": false,
     "config": "fontcustom.yml",
-    "copyright": "xiyootech team.",
+    "copyright": "zhilayun team.",
     "css3": false,
-    "css_selector": ".ec-{{glyph}}",
+    "css_selector": ".zly-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 16,
     "font_em": 512,
-    "font_name": "ecicon",
+    "font_name": "zlyicon",
     "force": false,
     "input": {
       "templates": "icons",
@@ -1412,7 +1416,7 @@
     ]
   },
   "templates": [
-    "assets/css/ecicon.css",
-    "assets/views/ecicon-preview.html"
+    "assets/css/zlyicon.css",
+    "assets/views/zlyicon-preview.html"
   ]
 }
