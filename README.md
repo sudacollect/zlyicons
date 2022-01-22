@@ -1,6 +1,13 @@
-# ecicons
+# Deprecated
 
-下载发布版本 [release](https://github.com/zhilayun/ecicons/releases)
+Deprecated!
+
+replace with font-awesome or ionicons.
+or https://driesvints.com/blog/blade-heroicons/
+
+# zlyicons
+
+下载发布版本 [release](https://github.com/sudacollect/zlyicons/releases)
 
 ### 1. 目录说明
 
